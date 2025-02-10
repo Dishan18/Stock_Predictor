@@ -1,1 +1,3 @@
-# Stock_Predictor
+# Stock Predictor
+
+ML Project to predict stock prices
