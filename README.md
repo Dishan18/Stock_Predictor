@@ -1,4 +1,4 @@
-# Stock Predictor and Sentimennt Analysis
+# Stock Predictor and Sentiment Analysis
 
 ML Project to predict stock prices
 
