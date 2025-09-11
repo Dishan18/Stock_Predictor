@@ -1,0 +1,18 @@
+# Large data files
+stocks_df.csv
+archive.zip
+stocks_df.zip
+
+# Model files
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
